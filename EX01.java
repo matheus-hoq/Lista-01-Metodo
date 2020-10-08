@@ -1,6 +1,6 @@
 //Bruno Coelho Alves
 import java.util.Scanner;
-public class App {
+public class EX01 {
     static boolean isPositive(double num){
         return num >= 0;
 
