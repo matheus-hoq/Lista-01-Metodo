@@ -1,6 +1,6 @@
 //Bruno Coelho Alves
 import java.util.Scanner;
-public class App {
+public class EX03 {
     public static void main(String[] args) {
     Scanner leia = new Scanner(System.in);
     
