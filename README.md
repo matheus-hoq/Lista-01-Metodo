@@ -4,5 +4,3 @@
 --> 3º semestre de 2020
 
 --> [EX03] é uma junção dos itens:[EX01] e [EX02]
-
---> alt + 1 6 7
