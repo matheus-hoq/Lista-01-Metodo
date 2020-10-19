@@ -15,6 +15,7 @@ public class EX02 {
         }else{
             System.out.println("O valor não é zero!!");
         }
+        leia.close();
     }
     
     static boolean isZero(double num){
